@@ -15,7 +15,7 @@ Generate user avatar using name initials letter.
 Via Composer
 
 ``` bash
-$ composer require Saosangmo/letter-avatar
+$ composer require saosangmo/letter-avatar
 ```
 
 ### Implementation
