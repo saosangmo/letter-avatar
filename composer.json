@@ -1,5 +1,5 @@
 {
-    "name": "yohang88/letter-avatar",
+    "name": "saosangmo/letter-avatar",
     "description": "Generate user avatar using name initials letter.",
     "keywords": [
         "letter avatar",
@@ -19,7 +19,7 @@
     "require": {
         "php" : ">=8.1.0",
         "ext-mbstring" : "*",
-        "intervention/image": "^3.3"
+        "intervention/image": "^3.7"
     },
     "require-dev": {
         "roave/security-advisories": "dev-master",
