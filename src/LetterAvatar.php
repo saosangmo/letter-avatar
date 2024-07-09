@@ -1,6 +1,6 @@
 <?php
 
-namespace YoHang88\LetterAvatar;
+namespace saosangmo\LetterAvatar;
 
 use Intervention\Image\Drivers\Gd\Driver;
 use Intervention\Image\Gd\Font;
